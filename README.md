@@ -6,8 +6,9 @@
   - [X] Aula
   - [X] Exercício
 - [ ] 14/Junho
-  - [ ] Aula
-  - [ ] Exercício
+  - [X] Aula
+  - [X] Exercício
+  - [X] Kaggle: https://www.kaggle.com/competitions/mindatautfpr2022
 - [ ] 21/Junho
   - [ ] Aula
   - [ ] Exercício
